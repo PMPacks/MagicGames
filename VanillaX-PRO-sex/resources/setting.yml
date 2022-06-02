@@ -1,0 +1,8 @@
+---
+#true = enable
+#false = disable
+features:
+  weather: false
+  gamerule: false
+  trade: false
+...

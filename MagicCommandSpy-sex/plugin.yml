@@ -1,0 +1,15 @@
+name: MagicCommandSpy
+main: TitaniumLB\CommandSpy\Main
+version: 1.0.4
+api: 4.0.0
+authors: [TitaniumLB, AGTHARN]
+
+commands:
+  commandspy:
+    description: Enter Spy-Mode
+    aliases: ["cspy"]
+    permission: "commandspy.cmd"
+
+permissions:
+  commandspy.cmd:
+    default: op

@@ -1,0 +1,18 @@
+---
+name: MagicCEBookShop
+main: Aericio\PCEBookShop\PCEBookShop
+version: 1.0.5
+api: 4.0.0
+author: Aericio/AceDaDev(Modified)
+
+permissions:
+  pcebookshop:
+    default: op
+    description: Allows usage of all PCEBookShop features
+  pcebookshop.command:
+    default: op
+    description: Allows usage of all PCEBookShop commands
+  pcebookshop.command.bookshop:
+    default: true
+    description: Allows usage of the /pcebookshop command
+...

@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/magicgames-leaked/VanillaX-PRO
+build-by-default: true
+branches:
+- sex
+projects:
+  VanillaX-PRO:
+    path: ""
+...

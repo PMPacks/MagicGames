@@ -1,0 +1,20 @@
+name: SellAll
+main: AndreasHGK\SellAll\SellAll
+version: 2.0.0
+api: 4.0.0
+author: AndreasHGK
+description: Sell all items in your hand or all items in your inventory with the same type as in your hand
+
+commands:
+  sell:
+    description: "Sell command"
+    usage: "/sell all|hand|inventory"
+    permission: sellall.command
+
+permissions:
+  sellall.command:
+    default: true
+    description: "Allows the use of /sell"
+  sellall.reload:
+    default: op
+    description: "Reloads the plugin"

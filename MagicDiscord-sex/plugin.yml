@@ -1,0 +1,29 @@
+name: MagicDiscord
+author: Pushkar
+version: 1.0.0
+api: 4.0.0
+main: Pushkar\MagicDiscord\Main
+
+commands:
+ report:
+  permission: report.cmd
+  description: §eReport Player, Bugs And Give Suggestions
+ playerreport:
+  permission: playerreport.cmd
+  description: §eReport Player
+ suggest:
+  permission: suggest.cmd
+  description: §eGive Suggestions
+ bug: 
+  permission: bug.cmd
+  description: §eBug Reports
+  
+permissions: 
+ bug.cmd:
+  default: true
+ report.cmd:
+  default: true
+ suggest.cmd:
+  default: true
+ playerreport.cmd:
+  default: true

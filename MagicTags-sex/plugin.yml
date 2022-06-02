@@ -1,0 +1,16 @@
+name: MagicTags
+main : cosmicnebula200\MagicTags\MagicTags
+version: 0.69.420-sexmc
+api: 4.0.0
+Author: cosmicnebula200
+
+permissions:
+  magictags.give:
+    default: op
+    description: with this permission players can use the give subcommand
+  rivetags.select:
+    default: true
+    description: with this permission players can use the select subcommand
+  magictags.show:
+    default: true
+    description: with this permission players can see their tag collections

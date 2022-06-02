@@ -1,0 +1,56 @@
+<?php
+
+namespace CLADevs\VanillaX\items\types;
+
+use pocketmine\item\Item;
+use pocketmine\block\Block;
+use pocketmine\item\ItemIds;
+use pocketmine\math\Vector3;
+use pocketmine\player\Player;
+use pocketmine\entity\Location;
+use pocketmine\item\ItemUseResult;
+use pocketmine\item\ItemIdentifier;
+use CLADevs\VanillaX\session\Session;
+use pocketmine\network\mcpe\protocol\types\CacheableNbt;
+use CLADevs\VanillaX\entities\object\FireworkRocketEntity;
+
+class FireworkRocketItem extends Item
+{
+
+    public function __construct()
+    {
+        parent::__construct(new ItemIdentifier(ItemIds::FIREWORKS, 0), "Firework Rocket");
+    }
+
+    public function onClickAir(Player $player, Vector3 $directionVector): ItemUseResult
+    {
+        $this->checkElytra($player);
+        return parent::onClickAir($player, $directionVector);
+    }
+
+    public function onInteractBlock(Player $player, Block $blockReplace, Block $blockClicked, int $face, Vector3 $clickVector): ItemUseResult
+    {
+        if (!$this->checkElytra($player)) {
+            $location = Location::fromObject($blockReplace->getPosition()->add(0.5, 0, 0.5), $blockClicked->getPosition()->getWorld());
+            $entity = new FireworkRocketEntity($location, $player);
+
+            if (($this->getNamedTag()->getTag("Fireworks")) !== null) {
+                $entity->getNetworkProperties()->setCompoundTag(16, new CacheableNbt($this->getNamedTag()));
+            }
+            $entity->spawnToAll();
+        }
+        Session::playSound($player, "firework.launch");
+        if ($player->isSurvival()) $this->pop();
+        return parent::onInteractBlock($player, $blockReplace, $blockClicked, $face, $clickVector);
+    }
+
+    public function checkElytra(Player $player): bool
+    {
+        if ($player->getArmorInventory()->getChestplate() instanceof ElytraItem && $player->isGliding()) {
+            $player->setMotion($player->getDirectionVector()->multiply(1.6));
+            $this->pop();
+            return true;
+        }
+        return false;
+    }
+}

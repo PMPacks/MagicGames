@@ -1,0 +1,31 @@
+---
+§l§e>> §5DAILY KITS §e<<:
+  kits:
+  - §l§dMonthly Kit
+  - §l§dWeekly Kit
+  - §l§dDaily Kit
+  locked: false
+§l§e>> §5BUYABLE KITS §e<<:
+  kits:
+  - §l§1Piginity Kit
+  - §l§1Lucid Kit
+  - §l§1Speeder Kit
+  - §l§1Coal Kit
+  - §l§eVULPIX
+  - §l§eLUCARIO
+  - §l§eLURANTIS
+  - §l§eBRAIXEN
+  locked: false
+§l§e>> §5RANKED KITS §e<<:
+  kits:
+  - §l§eMEMBER
+  - §l§eVIP
+  - §l§eVIP+
+  - §l§eMVP
+  - §l§eMVP+
+  - §l§eMVP++
+  - §4§lMiniYT
+  - §l§4YOUTUBER
+  - §b§lCROWN
+  locked: false
+...

@@ -1,0 +1,12 @@
+name: MagicIsland
+version: 1.0
+api: 4.0.0
+main: blueturk\skyblock\SkyBlock
+authors:
+  - mustafaturker1 (https::/github.com/mustafaturker1)
+  - ByNamless
+  - Pushkar (Translater and Editor)
+
+permissions:
+  weather.command.bt:
+    default: op

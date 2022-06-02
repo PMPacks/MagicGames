@@ -1,0 +1,65 @@
+Voter:
+  Name: "§a§l[Voter]§r"
+  Display: "§a§lVoter§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Doge:
+  Name: "§e§l[§e§lDoge§r§e§l]§r"
+  Display: "§e§lDoge§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Baller:
+  Name: "§6§l[§6§lBaller§r§6§l]§r"
+  Display: "§6§lBaller§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Heat:
+  Name: "§c§l[§c§lHeat§r§c§l]§r"
+  Display: "§c§lHeat§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Rich:
+  Name: "§2§l[Rich]§r"
+  Display: "§2§lRich§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+$Money$:
+  Name: "§a§l[§2§l$§r§a§lMoney§r§2§l$§r§a§l]§r"
+  Display: "§2§l$§r§a§lMoney§r§2§l$ Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+OP:
+  Name: "§4§l[§4§lOP§4§l]§r"
+  Display: "§4§lOP§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Cosmic:
+  Name: "§3§l[§3§lCosmic§r§3§l]§r"
+  Display: "§3§lCosmic§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Nemo:
+  Name: "§0§l[§6§lN§r§f§le§r§6§lm§r§f§lo§r§0§l]§r"
+  Display: "§6§lN§r§f§le§r§6§lm§r§f§lo§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Miner:
+  Name: "§8§l[§8§lMiner§r§8§l]§r"
+  Display: "§8§lMiner§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Tryhard:
+  Name: "§4§l[§4§lTryHard§r§4§l]§r"
+  Display: "§4§lTryHard§r Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Simp:
+  Name: "§b[§bSi§1mp]§d"
+  Display: "§bSi§1mp Tag"
+  Lore: "§b§lRight Click To Redeem!"
+
+Weeb:
+  Name: "§d[§dWeeb§d]§d"
+  Display: "§dWeeb§d Tag"
+  Lore: "§b§lRight Click To Redeem!"
+

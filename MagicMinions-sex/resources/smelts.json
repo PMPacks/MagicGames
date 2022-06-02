@@ -1,0 +1,14 @@
+{
+  "cobblestone": "stone",
+  "iron_ore": "iron_ingot",
+  "gold_ore": "gold_ingot",
+  "sand": "glass",
+  "clay": "brick",
+  "log:0": "coal",
+  "log:1": "coal",
+  "log:2": "coal",
+  "log:3": "coal",
+  "log2:0": "coal",
+  "log2:1": "coal",
+  "cactus": "dye:2"
+}

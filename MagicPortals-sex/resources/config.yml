@@ -1,0 +1,34 @@
+# DimensionPortals v0.0.1
+
+# IGNORE THE CONFIGURATION! ~ AGTHARN
+overworld:
+  # Folder name of the world to use for overworld
+  world: Mining
+
+# IGNORE THE CONFIGURATION! ~ AGTHARN
+nether:
+  # Folder name of the world to use for nether
+  world: MagicGames
+  # A list of other nether dimension worlds. These worlds will exhibit
+  # properties of nether dimension, but won't be used for portal teleportation.
+  sub-worlds: []
+  # The number of seconds the player must wait in portal
+  # before they get teleported to the nether.
+  teleportation-duration: 0
+  portal:
+    # Frame block surrounding the portal
+    frame-block: OBSIDIAN
+    # Portal dimensions cap
+    max-width: 30
+    max-height: 30
+
+# IGNORE THE CONFIGURATION! ~ AGTHARN
+end:
+  # Folder name of the world to use for end
+  world: Arena
+  # A list of other end dimension worlds. These worlds will exhibit
+  # properties of end dimension, but won't be used for portal teleportation.
+  sub-worlds: []
+  # The number of seconds the player must wait in portal
+  # before they get teleported to the end.
+  teleportation-duration: 0

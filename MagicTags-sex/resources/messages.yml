@@ -1,0 +1,10 @@
+# Messages for RiverTags ok
+
+prefix: "&Magic-Tags"
+
+messages:
+  receive-tag: "You have received the {tag_name} tag"
+  given-tag: "You have given {player} the {tag_name} tag"
+  selected-tag: "You have equipped the tag {tag_name}, now your nametag looks like {nametag}"
+  show-tags: "Your Tags are {tag_list}"
+  claimed-tag: "You have claimed {tag} successfully"

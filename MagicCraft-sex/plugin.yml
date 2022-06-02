@@ -1,0 +1,13 @@
+name: InvCraft
+main: NgLamVN\InvCraft\Loader
+api: 4.0.0
+version: 0.2.2
+author: ["NgLamVN", "Pushkar"]
+
+permissions:
+  ic.command:
+    default: true
+  ic.admin:
+    default: op
+  craft.command:
+    default: op

@@ -1,0 +1,11 @@
+name: MagicMinion
+main: BhawaniSingh\HCMinion\BetterMinion
+version: 1.0.0
+api: 4.0.0
+authors: [Pushkar, AGTHARN]
+depend:
+- EconomyAPI
+
+permissions:
+  minion.commands:
+    default: op

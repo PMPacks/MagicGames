@@ -1,0 +1,88 @@
+<?php
+
+namespace CLADevs\VanillaX\blocks\block;
+
+use pocketmine\item\Item;
+use pocketmine\item\ItemIds;
+use pocketmine\math\Vector3;
+use pocketmine\item\ToolTier;
+use pocketmine\player\Player;
+use pocketmine\entity\Location;
+use pocketmine\item\ItemFactory;
+use pocketmine\block\BlockToolType;
+use pocketmine\block\BlockBreakInfo;
+use pocketmine\block\BlockLegacyIds;
+use pocketmine\block\MonsterSpawner;
+use pocketmine\block\BlockIdentifier;
+use CLADevs\VanillaX\entities\VanillaEntity;
+use CLADevs\VanillaX\blocks\tile\MobSpawnerTile;
+
+class MobSpawnerBlock extends MonsterSpawner
+{
+
+    public function __construct()
+    {
+        parent::__construct(new BlockIdentifier(BlockLegacyIds::MOB_SPAWNER, 0, null, MobSpawnerTile::class), "Monster Spawner", new BlockBreakInfo(5.0, BlockToolType::PICKAXE, ToolTier::WOOD()->getHarvestLevel()));
+    }
+
+    public function isAffectedBySilkTouch(): bool
+    {
+        return true;
+    }
+
+    public function getSilkTouchDrops(Item $item): array
+    {
+        $drop = [];
+        $tile = $this->getPosition()->getWorld()->getTile($this->getPosition());
+
+        if ($tile instanceof MobSpawnerTile) {
+            $drop[] = ItemFactory::getInstance()->get(BlockLegacyIds::MOB_SPAWNER, ($tile->isValidEntity() ? $tile->getEntityId() : 0));
+        }
+        return $drop;
+    }
+
+    public function onInteract(Item $item, int $face, Vector3 $clickVector, ?Player $player = null): bool
+    {
+        if ($item->getId() === ItemIds::SPAWN_EGG) {
+            $tile = $this->getPosition()->getWorld()->getTile($this->getPosition());
+
+            if ($tile instanceof MobSpawnerTile && $tile->getEntityId() !== ($newId = $item->getMeta())) {
+                $tile->setEntityId($newId);
+                $this->position->getWorld()->setBlock($this->position, $this);
+                if (!$player->isCreative()) $item->pop();
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public function onScheduledUpdate(): void
+    {
+        $tile = $this->position->getWorld()->getTile($this->position);
+
+        if ($tile->isClosed() || !$tile instanceof MobSpawnerTile || $tile->getEntityInfo() === null) {
+            return;
+        }
+        if ($tile->getTick() > 0) $tile->decreaseTick();
+        if ($tile->isValidEntity() && $tile->canEntityGenerate() && $tile->getTick() <= 0) {
+            $tile->setTick(20);
+            if ($tile->getSpawnDelay() > 0) {
+                $tile->decreaseSpawnDelay();
+            } else {
+                $tile->setSpawnDelay($tile->getMinSpawnDelay() + mt_rand(0, min(0, $tile->getMaxSpawnDelay() - $tile->getMinSpawnDelay())));
+                $namespace = $tile->getEntityInfo()->getClass();
+
+                for ($i = 0; $i < $tile->getSpawnCount(); $i++) {
+                    $x = ((mt_rand(-10, 10) / 10) * $tile->getSpawnRange()) + 0.5;
+                    $z = ((mt_rand(-10, 10) / 10) * $tile->getSpawnRange()) + 0.5;
+                    $pos = $tile->getPosition();
+                    $pos = new Location($pos->x + $x, $pos->y + mt_rand(1, 3), $pos->z + $z, $pos->getWorld(), 0, 0);
+                    /** @var VanillaEntity $entity */
+                    $entity = new $namespace($pos);
+                    $entity->spawnToAll();
+                }
+            }
+        }
+        $this->position->getWorld()->scheduleDelayedBlockUpdate($this->position, 1);
+    }
+}

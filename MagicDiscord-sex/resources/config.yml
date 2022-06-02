@@ -1,0 +1,53 @@
+startup-webhook-url: "https://discord.com/api/webhooks/966717375191859310/kPWT5qvRsoEZhXnioBmunDcy3yXplsNrDS7rZP-TUSTjLanSLaAI9wbDlTRKdPXVxNKd"
+shutdown-webhook-url: "https://discord.com/api/webhooks/966717375191859310/kPWT5qvRsoEZhXnioBmunDcy3yXplsNrDS7rZP-TUSTjLanSLaAI9wbDlTRKdPXVxNKd"
+report-webhook-url: "https://discord.com/api/webhooks/966717295848202311/wlB3tXBeKh9r63i9YaFvaDYNx7V814H1B9WCfqKqiJnBlVy2yQi4hNWGQkJx3kuSEhWT"
+suggest-webhook-url: "https://discord.com/api/webhooks/966717204206874655/5sehwV761T7tL5D7Q99BF_O6zXnvblW-9kmTrrGi7xbeGidWWcSpwN9NUAfAkDpLlKMi"
+bug-webhook-url: "https://discord.com/api/webhooks/966717006785159219/V_R81LCYLGgqXLmBUj6hQqAkAARg7bBCvUr6YObqNveDZi0l0sFJR_939KEvkweIQj1c"
+
+webhook-username: "MagicGames"
+suggest-webhook-username: "MagicGames-Suggestions"
+bug-webhook-username: "MagicGames-Bugs"
+report-webhook-username: "MagicGames-Report"
+
+webhook-avatar-url: "https://i.imgur.com/SE7lQPX.png"
+suggest-webhook-avatar-url: "https://i.imgur.com/EHigDU8.png"
+bug-webhook-avatar-url: "https://i.imgur.com/Y1wEA7w.png"
+report-webhook-avatar-url: "https://i.imgur.com/gP9n9zJ.png"
+
+report-embed-color: "40E0D0"
+suggest-embed-color: "FFBF00"
+bug-embed-color: "FF7F50"
+startup-embed-color: "00FF00"
+shutdown-embed-color: "FF0000"
+
+startup-thumbnail-url: ""
+shutdown-thumbnail-url: ""
+suggest-thumbnail-url: "https://i.imgur.com/EHigDU8.png"
+bug-thumbnail-url: "https://i.imgur.com/Y1wEA7w.png"
+report-thumbnail-url: "https://i.imgur.com/gP9n9zJ.png"
+
+enable-startup-alert: true
+
+enable-shutdown-alert: true
+
+startup-message-title: ":white_check_mark: A Server has started !"
+
+startup-embed-field-title: "NORMAL STARTUP"
+
+startup-embed-field-message: "This was a normal startup."
+
+startup-footer-image-url: ""
+
+startup-footer-message: "Powered by MagicGames"
+
+shutdown-message-title: ":x: A Server has stopped !"
+
+shutdown-embed-field-title: "NORMAL SHUTDOWN"
+
+shutdown-embed-field-message: "This was a normal shutdown."
+
+shutdown-footer-image-url: ""
+
+shutdown-footer-message: "Powered by MagicGames"
+
+

@@ -1,0 +1,220 @@
+quests:
+  Break 5 Oak logs:
+    progress: 5
+    item:
+      id: 17
+      meta: 0
+      amount: 5
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 50"
+
+  Break 15 Cobblestone:
+    progress: 15
+    item:
+      id: 4
+      meta: 0
+      amount: 15
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 150"
+
+  Break 15 Oak Logs:
+    progress: 15
+    item:
+      id: 17
+      meta: 0
+      amount: 15
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 150"
+
+  Break 35 Cobblestone:
+    progress: 35
+    item:
+      id: 4
+      meta: 0
+      amount: 35
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 200"
+
+  Break 10 Coal Ores:
+    progress: 10
+    item:
+      id: 16
+      meta: 0
+      amount: 10
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 250"
+
+  Break 40 Coal Ores:
+    progress: 40
+    item:
+      id: 16
+      meta: 0
+      amount: 40
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 430"
+
+  Break 20 Spruce Logs:
+    progress: 20
+    item:
+      id: 17
+      meta: 1
+      amount: 20
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 500"
+
+  Break 30 Birch Logs:
+    progress: 30
+    item:
+      id: 17
+      meta: 2
+      amount: 30
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 670"
+
+  Break 60 Coal Ores:
+    progress: 60
+    item:
+      id: 16
+      meta: 0
+      amount: 60
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 800"
+
+  Break 20 Iron Ores:
+    progress: 20
+    item:
+      id: 15
+      meta: 0
+      amount: 20
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 930"
+
+  Break 50 Iron Ores:
+    progress: 50
+    item:
+      id: 15
+      meta: 0
+      amount: 50
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 1450"
+
+  Place 10 Dirt:
+    progress: 10
+    item:
+      id: 3
+      meta: 0
+      amount: 10
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 110"
+
+  Place 25 Dirt:
+    progress: 25
+    item:
+      id: 3
+      meta: 0
+      amount: 25
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 300"
+
+  Place 60 Cobblestone:
+    progress: 60
+    item:
+      id: 4
+      meta: 0
+      amount: 60
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 830"
+
+  Place 60 Dirt:
+    progress: 60
+    item:
+      id: 3
+      meta: 0
+      amount: 60
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 1050"
+
+  Craft a Workbench:
+    progress: 1
+    item:
+      id: 58
+      meta: 0
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 50"
+
+  Craft a Wooden Pickaxe:
+    progress: 1
+    item:
+      id: 270
+      meta: 0
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 60"
+
+  Craft a Stone Pickaxe:
+    progress: 1
+    item:
+      id: 274
+      meta: 0
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 70"
+
+  Craft a Furnace:
+    progress: 1
+    item:
+      id: 61
+      meta: 0
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 100"
+
+  Craft an Iron Pickaxe:
+    progress: 1
+    item:
+      id: 257
+      meta: 0
+      amount: 1
+    type-img: 0
+    url-img: "textures/ui/icon_trailer"
+    rewardCommands:
+      - "givemoney {name} 400"

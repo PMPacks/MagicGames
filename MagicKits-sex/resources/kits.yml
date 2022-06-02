@@ -1,0 +1,902 @@
+---
+§l§dMonthly Kit:
+  items:
+  - id: 276
+    nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQJAAIDAGx2bAMAAAICAGlkEQACAwBsdmwCAAACAgBpZA0AAgMAbHZsAQAAAA==
+    format: nbt
+  - id: 279
+    nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQJAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAACAgBpZA8AAgMAbHZsAQAAAA==
+    format: nbt
+  - id: 278
+    nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 277
+    nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAMAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 261
+  - id: 262
+    count: 64
+  - id: 466
+    count: 15
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAMAAAICAGlkAAACAwBsdmwBAAACAgBpZBEAAgMAbHZsAwAAAA==
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAMAAAICAGlkAAACAwBsdmwBAAACAgBpZBEAAgMAbHZsAwAAAA==
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAMAAAICAGlkAAACAwBsdmwBAAACAgBpZBEAAgMAbHZsAwAAAA==
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAMAAAICAGlkAAACAwBsdmwBAAACAgBpZBEAAgMAbHZsAwAAAA==
+      format: nbt
+  price: 0
+  cooldown: 2629800
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§dWeekly Kit:
+  items:
+  - id: 276
+  - id: 257
+  - id: 258
+  - id: 256
+  - id: 322
+    count: 5
+  armor:
+  - id: 306
+  - id: 307
+  - id: 308
+  - id: 309
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§dDaily Kit:
+  items:
+    1:
+      id: 267
+    2:
+      id: 274
+    3:
+      id: 256
+    4:
+      id: 275
+    5:
+      id: 17
+      count: 12
+    6:
+      id: 295
+      count: 9
+  armor:
+  - id: 298
+    nbt_b64: CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACQQAZW5jaAoBAAAAAgIAaWQAAAIDAGx2bAEAAAA=
+    format: nbt
+  price: 0
+  cooldown: 86400
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§eVULPIX:
+  items:
+  - id: 272
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoCAAAAAgIAaWQJAAIDAGx2bAIAAAICAGlkEQACAwBsdmwCAAAA
+    format: nbt
+  - id: 273
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 274
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAIAAAICAGlkEQACAwBsdmwCAAAA
+    format: nbt
+  - id: 275
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAIAAAICAGlkEQACAwBsdmwCAAAA
+    format: nbt
+  - id: 291
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 366
+    count: 32
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQAAA==
+    format: nbt
+  armor:
+  - id: 302
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoDAAAAAgIAaWQAAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAACAgBpZAUAAgMAbHZsAQAAAA==
+    format: nbt
+  - id: 303
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoDAAAAAgIAaWQAAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAACAgBpZAUAAgMAbHZsAQAAAA==
+    format: nbt
+  - id: 304
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoDAAAAAgIAaWQAAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAACAgBpZAUAAgMAbHZsAQAAAA==
+    format: nbt
+  - id: 305
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnZVZ1bHBpeCDCp2FLaXQACQQAZW5jaAoDAAAAAgIAaWQAAAIDAGx2bAIAAAICAGlkEQACAwBsdmwBAAACAgBpZAUAAgMAbHZsAQAAAA==
+    format: nbt
+  price: 100
+  cooldown: 0
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: vulpix
+  commands:
+  - tell {PLAYER} §a§lSUCCESS!§r §7You've claimed §e[§lVULPIX§r§e] §aKit
+§l§eLUCARIO:
+  items:
+  - id: 267
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkCQACAwBsdmwDAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 257
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwDAAACAgBpZBEAAgMAbHZsAgAAAA==
+    format: nbt
+  - id: 258
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwDAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 256
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwDAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 292
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwDAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 366
+    count: 48
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAA=
+    format: nbt
+  armor:
+  - id: 306
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 307
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 308
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 309
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnMUx1Y2FyaW8gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  price: 250
+  cooldown: 0
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: lucario
+  commands:
+  - tell {PLAYER} §a§lSUCCESS!§r §7You've claimed §1[§lLUCARIO§r§1] §aKit!
+§l§eBRAIXEN:
+  items:
+  - id: 267
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkCQACAwBsdmwFAAACAgBpZBEAAgMAbHZsAwAAAgIAaWQNAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 257
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwFAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 258
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwFAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 256
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwFAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 292
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwFAAACAgBpZBEAAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 366
+    count: 64
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAA=
+    format: nbt
+  armor:
+  - id: 306
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 307
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 308
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 309
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUUAMKncsKnY0JyYWl4ZW4gwqdhS2l0AAkEAGVuY2gKAwAAAAICAGlkAAACAwBsdmwCAAACAgBpZBEAAgMAbHZsAQAAAgIAaWQFAAIDAGx2bAEAAAA=
+    format: nbt
+  price: 500
+  cooldown: 0
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: false
+  permission: braixen
+  commands:
+  - tell {PLAYER} §a§lSUCCESS!§r §7You've claimed §c[§lBRAIXEN§r§c]§a Kit!
+§l§eLURANTIS:
+  items:
+  - id: 276
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgMAAAACAgBpZAkAAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAICAGlkDQACAwBsdmwBAAAA
+    format: nbt
+  - id: 278
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZA8AAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 279
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZA8AAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 277
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZA8AAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAMAAAA=
+    format: nbt
+  - id: 293
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZA8AAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAMAAAA=
+    format: nbt
+  - id: 364
+    count: 64
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAA
+    format: nbt
+  - id: 364
+    count: 32
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAA
+    format: nbt
+  armor:
+  - id: 310
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZAAAAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 311
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZAAAAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 312
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZAAAAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAA=
+    format: nbt
+  - id: 313
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUVAMKncsKnM0x1cmFudGlzIMKnYUtpdAAJBABlbmNoCgIAAAACAgBpZAAAAgMAbHZsAgAAAgIAaWQRAAIDAGx2bAEAAAA=
+    format: nbt
+  price: 1000
+  cooldown: 0
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: lurantis
+  commands:
+  - tell {PLAYER} §a§lSUCCESS!§r §7You've claimed §3[§lLURANTIS§r§3] §aKit!
+§l§eMEMBER:
+  items:
+  - id: 272
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQJAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 273
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 274
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 275
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 291
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 366
+    count: 16
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQAAA==
+    format: nbt
+  armor:
+  - id: 298
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQAAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQAAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQAAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUTAMKncsKnN01lbWJlcsKnYSBLaXQACQQAZW5jaAoCAAAAAgIAaWQAAAIDAGx2bAEAAAICAGlkEQACAwBsdmwBAAAA
+    format: nbt
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+  commands:
+  - tell {PLAYER} §a§lSUCCESS!§r §7You've claimed §7[§lMEMBER§r§7] §aKit!
+§l§eVIP:
+  items:
+    0:
+      id: 276
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAwAAAAICAGlkCQACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAgIAaWQNAAIDAGx2bAUAAAA=
+      format: nbt
+    1:
+      id: 279
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAMAAAICAGlkEQACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    2:
+      id: 278
+      nbt_b64: CgAACQQAZW5jaAoBAAAAAgIAaWQRAAIDAGx2bAUAAAMSAFBpZ2d5Q0VJdGVtVmVyc2lvbgAAAAAA
+      format: nbt
+    3:
+      id: 277
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwDAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    9:
+      id: 262
+      count: 64
+    10:
+      id: 346
+    11:
+      id: 373
+      damage: 22
+    12:
+      id: 373
+      damage: 15
+  armor:
+  - id: 310
+    nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAAA
+    format: nbt
+  - id: 311
+    nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAAA
+    format: nbt
+  - id: 312
+    nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAAA
+    format: nbt
+  - id: 313
+    nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBQAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlk9QECAwBsdmwBAAACAgBpZKQBAgMAbHZsAgAAAA==
+    format: nbt
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: vip
+§l§eVIP+:
+  items:
+    0:
+      id: 276
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQJAAIDAGx2bAUAAAICAGlkEQACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    1:
+      id: 279
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAMAAAICAGlkEQACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    2:
+      id: 278
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    3:
+      id: 277
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwDAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    9:
+      id: 262
+      count: 64
+    10:
+      id: 346
+    11:
+      id: 373
+      damage: 22
+    12:
+      id: 373
+      damage: 15
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAACQQAZW5jaAoEAAAAAgIAaWQRAAIDAGx2bAMAAAICAGlkAAACAwBsdmwDAAACAgBpZAEAAgMAbHZsAQAAAgIAaWT1AQIDAGx2bAEAAAMSAFBpZ2d5Q0VJdGVtVmVyc2lvbgAAAAAA
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAACQQAZW5jaAoEAAAAAgIAaWQRAAIDAGx2bAMAAAICAGlkAAACAwBsdmwDAAACAgBpZAEAAgMAbHZsAQAAAgIAaWSkAQIDAGx2bAIAAAMSAFBpZ2d5Q0VJdGVtVmVyc2lvbgAAAAAA
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAACQQAZW5jaAoEAAAAAgIAaWQRAAIDAGx2bAMAAAICAGlkAQACAwBsdmwBAAACAgBpZAAAAgMAbHZsAwAAAgIAaWSkAQIDAGx2bAIAAAMSAFBpZ2d5Q0VJdGVtVmVyc2lvbgAAAAAA
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAACQQAZW5jaAoEAAAAAgIAaWQRAAIDAGx2bAMAAAICAGlkAQACAwBsdmwBAAACAgBpZAAAAgMAbHZsAwAAAgIAaWSkAQIDAGx2bAIAAAMSAFBpZ2d5Q0VJdGVtVmVyc2lvbgAAAAAA
+      format: nbt
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: vipplus
+§l§eMVP+:
+  items:
+  - id: 276
+    nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkcwACAwBsdmwDAAACAgBpZHsAAgMAbHZsAwAAAgIAaWQJAAIDAGx2bAUAAAICAGlkEQACAwBsdmwFAAAKBwBkaXNwbGF5CQQATG9yZQAAAAAAAAA=
+    format: nbt
+  - id: 278
+    nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAgAAAAICAGlkEQACAwBsdmwFAAACAgBpZA8AAgMAbHZsAwAAAA==
+    format: nbt
+  - id: 279
+    nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwFAAAA
+    format: nbt
+  - id: 277
+    nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAUAAAICAGlkEQACAwBsdmwFAAAA
+    format: nbt
+  - id: 261
+    nbt_b64: CgAACQQAZW5jaAoBAAAAAgIAaWQRAAIDAGx2bAUAAAA=
+    format: nbt
+  - id: 346
+  - id: 373
+    damage: 11
+  - id: 373
+    damage: 14
+  - id: 373
+    damage: 33
+  - id: 262
+    count: 64
+  - id: 373
+    damage: 22
+  - id: 466
+    count: 22
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAUAAAICAGlkAAACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAA==
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAUAAAICAGlkAAACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAA==
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAUAAAICAGlkAAACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAA==
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQBAAIDAGx2bAUAAAICAGlkAAACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAA==
+      format: nbt
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: mvpplus
+§l§eMVP++:
+  items:
+    0:
+      id: 276
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBwAAAAICAGlkCQACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAgIAaWQNAAIDAGx2bAUAAAICAGlkaAACAwBsdmwDAAACAgBpZHMAAgMAbHZsAwAAAgIAaWRlAAIDAGx2bAEAAAICAGlkewACAwBsdmwDAAAA
+      format: nbt
+    1:
+      id: 279
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAMAAAICAGlkEQACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    2:
+      id: 278
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    3:
+      id: 277
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwDAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    9:
+      id: 262
+      count: 64
+    10:
+      id: 346
+    11:
+      id: 373
+      damage: 22
+    12:
+      id: 373
+      damage: 15
+    13:
+      id: 466
+      count: 64
+    14:
+      id: 384
+      count: 64
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBgAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlk9QECAwBsdmwBAAACAgBpZKQBAgMAbHZsAgAAAgIAaWSeAQIDAGx2bAIAAAA=
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBQAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAACAgBpZJ4BAgMAbHZsAgAAAA==
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBQAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAACAgBpZJ4BAgMAbHZsAgAAAA==
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBQAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAACAgBpZJ4BAgMAbHZsAgAAAA==
+      format: nbt
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: mvpplusplus
+§l§1Piginity Kit:
+  items:
+  - id: 298
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IIAFBpZ2luaXR5AwsAY3VzdG9tQ29sb3L//wD/CgcAZGlzcGxheQkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToNAMKncsKnZFBpZ25pdHkEAMKnciASAMKnciDCp2VBcm1vciBUeXBlOhcAwqdywqdkUGlnbml0eSDCp2ZIZWxtZXQEAMKnciASAMKnciDCp2VEdXJhYmlsaXR5OhgAwqdywqdiMTAwIMKnN8KnbygoRHVyYSkpBADCp3IgHwDCp3LCpzcoKCB3aGVuIGZ1bGwgc2V0IGFybW9yICkpCQDCp3I8PT09PT4IBABOYW1lHwDCp3LCp3LCp3IgwqdkUGlnaW5pdHkgwqdmSGVsbWV0AAkEAGVuY2gAAAAAAAA=
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IIAFBpZ2luaXR5AwsAY3VzdG9tQ29sb3L//wD/CgcAZGlzcGxheQkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToNAMKncsKnZFBpZ25pdHkEAMKnciASAMKnciDCp2VBcm1vciBUeXBlOhsAwqdywqdkUGlnbml0eSDCp2ZDaGVzdHBsYXRlBADCp3IgEgDCp3IgwqdlRHVyYWJpbGl0eToYAMKncsKnYjEwMCDCpzfCp28oKER1cmEpKQQAwqdyIB8Awqdywqc3KCggd2hlbiBmdWxsIHNldCBhcm1vciApKQkAwqdyPD09PT0+CAQATmFtZSMAwqdywqdywqdyIMKnZFBpZ2luaXR5IMKnZkNoZXN0cGxhdGUACQQAZW5jaAAAAAAAAA==
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IIAFBpZ2luaXR5AwsAY3VzdG9tQ29sb3L//wD/CgcAZGlzcGxheQkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToNAMKncsKnZFBpZ25pdHkEAMKnciASAMKnciDCp2VBcm1vciBUeXBlOhkAwqdywqdkUGlnbml0eSDCp2ZMZWdnaW5ncwQAwqdyIBIAwqdyIMKnZUR1cmFiaWxpdHk6GADCp3LCp2IxMDAgwqc3wqdvKChEdXJhKSkEAMKnciAfAMKncsKnNygoIHdoZW4gZnVsbCBzZXQgYXJtb3IgKSkJAMKncjw9PT09PggEAE5hbWUhAMKncsKncsKnciDCp2RQaWdpbml0eSDCp2ZMZWdnaW5ncwAJBABlbmNoAAAAAAAA
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IIAFBpZ2luaXR5AwsAY3VzdG9tQ29sb3L//wD/CgcAZGlzcGxheQkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToNAMKncsKnZFBpZ25pdHkEAMKnciASAMKnciDCp2VBcm1vciBUeXBlOhYAwqdywqdkUGlnbml0eSDCp2ZCb290cwQAwqdyIBIAwqdyIMKnZUR1cmFiaWxpdHk6GADCp3LCp2IxMDAgwqc3wqdvKChEdXJhKSkEAMKnciAfAMKncsKnNygoIHdoZW4gZnVsbCBzZXQgYXJtb3IgKSkJAMKncjw9PT09PggEAE5hbWUeAMKncsKncsKnciDCp2RQaWdpbml0eSDCp2ZCb290cwAJBABlbmNoAAAAAAAA
+    format: nbt
+  armor: []
+  price: 50000
+  cooldown: 60
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: true
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§1Lucid Kit:
+  items:
+  - id: 298
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUgAMKncsKncsKnciDCp2RMdWNpZCDCp2ZDaGVzdHBsYXRlCQQATG9yZQgWAAAADgDCp3IgwqdlRWZmZWN0OhEAwqdywqdiU3BlZWQgwqdmKzEWAMKncsKnYUp1bXAgQm9vc3QgwqdmKzEEAMKnciAPAMKnciDCp2VBYmlsaXR5OhUAwqdywqdjLTQlIMKnZktub2NiYWNrJADCp3LCp2ErMCwxJSDCp2ZTd29yZCBEYW1hZ2UgVG8gRW5lbXkEAMKnciAOAMKnciDCp2VSYXJpdHk6DgDCp3LCp2FVbmNvbW1vbgQAwqdyIBAAwqdyIMKnZVNldCBUeXBlOgsAwqdywqdiTHVjaWQEAMKnciASAMKnciDCp2VBcm1vciBUeXBlOhUAwqdywqdiTHVjaWQgwqdmSGVsbWV0BADCp3IgEgDCp3IgwqdlRHVyYWJpbGl0eToYAMKncsKnYjEwMCDCpzfCp28oKER1cmEpKQQAwqdyIB8Awqdywqc3KCggd2hlbiBmdWxsIHNldCBhcm1vciApKQkAwqdyPD09PT0+AAkEAGVuY2gAAAAAAAgRAGJ1cmdlcmN1c3RvbWFybW9yBQBMdWNpZAMLAGN1c3RvbUNvbG9y/wAZ/wA=
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUeAMKncsKncsKnciAmTHVjaWQgwqdmQ2hlc3RwbGF0ZQkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToLAMKncsKnYkx1Y2lkBADCp3IgEgDCp3IgwqdlQXJtb3IgVHlwZToZAMKncsKnYkx1Y2lkIMKnZkNoZXN0cGxhdGUEAMKnciASAMKnciDCp2VEdXJhYmlsaXR5OhgAwqdywqdiMTAwIMKnN8KnbygoRHVyYSkpBADCp3IgHwDCp3LCpzcoKCB3aGVuIGZ1bGwgc2V0IGFybW9yICkpCQDCp3I8PT09PT4ACQQAZW5jaAAAAAAACBEAYnVyZ2VyY3VzdG9tYXJtb3IFAEx1Y2lkAwsAY3VzdG9tQ29sb3L/ABn/AA==
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUeAMKncsKncsKnciDCp2RMdWNpZCDCp2ZMZWdnaW5ncwkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToLAMKncsKnYkx1Y2lkBADCp3IgEgDCp3IgwqdlQXJtb3IgVHlwZToXAMKncsKnYkx1Y2lkIMKnZkxlZ2dpbmdzBADCp3IgEgDCp3IgwqdlRHVyYWJpbGl0eToYAMKncsKnYjEwMCDCpzfCp28oKER1cmEpKQQAwqdyIB8Awqdywqc3KCggd2hlbiBmdWxsIHNldCBhcm1vciApKQkAwqdyPD09PT0+AAkEAGVuY2gAAAAAAAgRAGJ1cmdlcmN1c3RvbWFybW9yBQBMdWNpZAMLAGN1c3RvbUNvbG9y/wAZ/wA=
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUbAMKncsKncsKnciDCp2RMdWNpZCDCp2ZCb290cwkEAExvcmUIFgAAAA4AwqdyIMKnZUVmZmVjdDoRAMKncsKnYlNwZWVkIMKnZisxFgDCp3LCp2FKdW1wIEJvb3N0IMKnZisxBADCp3IgDwDCp3IgwqdlQWJpbGl0eToVAMKncsKnYy00JSDCp2ZLbm9jYmFjayQAwqdywqdhKzAsMSUgwqdmU3dvcmQgRGFtYWdlIFRvIEVuZW15BADCp3IgDgDCp3IgwqdlUmFyaXR5Og4AwqdywqdhVW5jb21tb24EAMKnciAQAMKnciDCp2VTZXQgVHlwZToLAMKncsKnYkx1Y2lkBADCp3IgEgDCp3IgwqdlQXJtb3IgVHlwZToUAMKncsKnYkx1Y2lkIMKnZkJvb3RzBADCp3IgEgDCp3IgwqdlRHVyYWJpbGl0eToYAMKncsKnYjEwMCDCpzfCp28oKER1cmEpKQQAwqdyIB8Awqdywqc3KCggd2hlbiBmdWxsIHNldCBhcm1vciApKQkAwqdyPD09PT0+AAkEAGVuY2gAAAAAAAgRAGJ1cmdlcmN1c3RvbWFybW9yBQBMdWNpZAMLAGN1c3RvbUNvbG9y/wAZ/wA=
+    format: nbt
+  armor: []
+  price: 50000
+  cooldown: 60
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: true
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§1Speeder Kit:
+  items:
+  - id: 298
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IHAFNwZWVkZXIDCwBjdXN0b21Db2xvcv////8KBwBkaXNwbGF5CQQATG9yZQgDAAAACgDCp3JTcGVlZGVyBADCp3IgMQDCp3LCpzHCp2xGVUxMIFNFVCBCT05VUzogCsKnNlNQRUVEICs1IArCp2VKVU1QICsyCAQATmFtZRcAwqdywqdswqc2U3BlZWRlciBIZWxtZXQAAA==
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IHAFNwZWVkZXIDCwBjdXN0b21Db2xvcv////8KBwBkaXNwbGF5CQQATG9yZQgDAAAACgDCp3JTcGVlZGVyBADCp3IgMQDCp3LCpzHCp2xGVUxMIFNFVCBCT05VUzogCsKnNlNQRUVEICs1IArCp2VKVU1QICsyCAQATmFtZRsAwqdywqdswqc2U3BlZWRlciBDaGVzdHBsYXRlAAA=
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IHAFNwZWVkZXIDCwBjdXN0b21Db2xvcv////8KBwBkaXNwbGF5CQQATG9yZQgDAAAACgDCp3JTcGVlZGVyBADCp3IgMQDCp3LCpzHCp2xGVUxMIFNFVCBCT05VUzogCsKnNlNQRUVEICs1IArCp2VKVU1QICsyCAQATmFtZRkAwqdywqdswqc2U3BlZWRlciBMZWdnaW5ncwAA
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IHAFNwZWVkZXIDCwBjdXN0b21Db2xvcv////8KBwBkaXNwbGF5CQQATG9yZQgDAAAACgDCp3JTcGVlZGVyBADCp3IgMQDCp3LCpzHCp2xGVUxMIFNFVCBCT05VUzogCsKnNlNQRUVEICs1IArCp2VKVU1QICsyCAQATmFtZRYAwqdywqdswqc2U3BlZWRlciBCb290cwAA
+    format: nbt
+  armor: []
+  price: 30000
+  cooldown: 60
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: true
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§1Coal Kit:
+  items:
+  - id: 298
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUZAMKncsKnbMKnOEhBUkQgQ09BTCBIZWxtZXQJBABMb3JlCAMAAAAoAMKncsKnN0hhcmQgQ29hbCBIZWxtZXQgaXMgYW4gZXBpYyBoZWxtZXQEAMKnciDHAMKncsKnMsKnbEZVTEwgU0VUIEJPTlVTOiAKwqdywqdhKzEwJSBEYW1hZ2UgZGVhbHQgb3ZlcmFsbArCp2ErMjAlIE91dGdvaW5nIGRhbWFnZSBkZWFsdCB1c2luZyBTd29yZHMKwqdhKzE1JSBPdXRnb2luZyBkYW1hZ2UgZGVhbHQgdXNpbmcgQXhlcwrCp2ErNTAlIE91dGdvaW5nIGRhbWFnZSBkZWFsdCB1c2luZyBCb3dzCsKnZSArMTAgc3RyZW5ndGgACBEAYnVyZ2VyY3VzdG9tYXJtb3IEAENvYWwDCwBjdXN0b21Db2xvcgAAAP8A
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUdAMKncsKnbMKnOEhBUkQgQ09BTCBDaGVzdHBsYXRlCQQATG9yZQgDAAAAMADCp3LCpzdIYXJkIGNvYWwgQ2hlc3RwbGF0ZSBpcyBhbiBlcGljIGNoZXN0cGxhdGUEAMKnciDHAMKncsKnMsKnbEZVTEwgU0VUIEJPTlVTOiAKwqdywqdhKzEwJSBEYW1hZ2UgZGVhbHQgb3ZlcmFsbArCp2ErMjAlIE91dGdvaW5nIGRhbWFnZSBkZWFsdCB1c2luZyBTd29yZHMKwqdhKzE1JSBPdXRnb2luZyBkYW1hZ2UgZGVhbHQgdXNpbmcgQXhlcwrCp2ErNTAlIE91dGdvaW5nIGRhbWFnZSBkZWFsdCB1c2luZyBCb3dzCsKnZSArMTAgc3RyZW5ndGgACBEAYnVyZ2VyY3VzdG9tYXJtb3IEAENvYWwDCwBjdXN0b21Db2xvcgAAAP8A
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUbAMKncsKnbMKnOEhBUkQgQ09BTCBMZWdnaW5ncwkEAExvcmUIAwAAACoAwqdywqc3SGFyZCBjb2FsIExlZ2dpbmdzIGFyZSBlcGljIGxlZ2dpbmdzBADCp3IgxwDCp3LCpzLCp2xGVUxMIFNFVCBCT05VUzogCsKncsKnYSsxMCUgRGFtYWdlIGRlYWx0IG92ZXJhbGwKwqdhKzIwJSBPdXRnb2luZyBkYW1hZ2UgZGVhbHQgdXNpbmcgU3dvcmRzCsKnYSsxNSUgT3V0Z29pbmcgZGFtYWdlIGRlYWx0IHVzaW5nIEF4ZXMKwqdhKzUwJSBPdXRnb2luZyBkYW1hZ2UgZGVhbHQgdXNpbmcgQm93cwrCp2UgKzEwIHN0cmVuZ3RoAAgRAGJ1cmdlcmN1c3RvbWFybW9yBABDb2FsAwsAY3VzdG9tQ29sb3IAAAD/AA==
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUYAMKncsKnbMKnOEhBUkQgQ09BTCBCb290cwkEAExvcmUIAwAAACQAwqdywqc3SGFyZCBjb2FsIEJvb3RzIGFyZSBlcGljIGJvb3RzBADCp3IgxwDCp3LCpzLCp2xGVUxMIFNFVCBCT05VUzogCsKncsKnYSsxMCUgRGFtYWdlIGRlYWx0IG92ZXJhbGwKwqdhKzIwJSBPdXRnb2luZyBkYW1hZ2UgZGVhbHQgdXNpbmcgU3dvcmRzCsKnYSsxNSUgT3V0Z29pbmcgZGFtYWdlIGRlYWx0IHVzaW5nIEF4ZXMKwqdhKzUwJSBPdXRnb2luZyBkYW1hZ2UgZGVhbHQgdXNpbmcgQm93cwrCp2UgKzEwIHN0cmVuZ3RoAAgRAGJ1cmdlcmN1c3RvbWFybW9yBABDb2FsAwsAY3VzdG9tQ29sb3IAAAD/AA==
+    format: nbt
+  armor: []
+  price: 100000
+  cooldown: 60
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: true
+    emptyOnClaim: false
+    chestKit: true
+  permission: ""
+§l§eMVP:
+  items:
+    0:
+      id: 276
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAgAAAAICAGlkCQACAwBsdmwFAAACAgBpZBEAAgMAbHZsBQAAAA==
+      format: nbt
+    1:
+      id: 279
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAgAAAAICAGlkDwACAwBsdmwDAAACAgBpZBEAAgMAbHZsBQAAAA==
+      format: nbt
+    2:
+      id: 278
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAgAAAAICAGlkEQACAwBsdmwFAAACAgBpZA8AAgMAbHZsBQAAAA==
+      format: nbt
+    3:
+      id: 277
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAgAAAAICAGlkEQACAwBsdmwFAAACAgBpZA8AAgMAbHZsAwAAAA==
+      format: nbt
+    4:
+      id: 261
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAQAAAAICAGlkEQACAwBsdmwFAAAA
+      format: nbt
+    5:
+      id: 262
+      count: 64
+    6:
+      id: 346
+    7:
+      id: 466
+      count: 22
+    8:
+      id: 399
+      nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUkAMKncsKnYVNreWJsb2NrIE1lbnUgwqc3KFJpZ2h0LUNsaWNrKQAA
+      format: nbt
+    9:
+      id: 262
+      count: 3
+    27:
+      id: 373
+      damage: 14
+    28:
+      id: 373
+      damage: 11
+    29:
+      id: 373
+      damage: 22
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkoAECAwBsdmwBAAAA
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkoAECAwBsdmwBAAAA
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkoAECAwBsdmwBAAAA
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkoAECAwBsdmwBAAAA
+      format: nbt
+  price: 0
+  cooldown: 604800
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: mvp
+§l§4YOUTUBER:
+  items:
+    0:
+      id: 276
+      nbt_b64: CgAACQQAZW5jaAoEAAAAAgIAaWRzAAIDAGx2bAMAAAICAGlkewACAwBsdmwDAAACAgBpZAkAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAoHAGRpc3BsYXkJBABMb3JlAAAAAAAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAA=
+      format: nbt
+    1:
+      id: 279
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQPAAIDAGx2bAMAAAICAGlkEQACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    2:
+      id: 278
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwDAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    3:
+      id: 277
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAUAAAICAGlkDwACAwBsdmwDAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    4:
+      id: 466
+      count: 22
+    9:
+      id: 262
+      count: 64
+    10:
+      id: 346
+    11:
+      id: 373
+      damage: 22
+    12:
+      id: 373
+      damage: 15
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBQAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlk9QECAwBsdmwBAAACAgBpZKQBAgMAbHZsAgAAAA==
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAAA
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAAA
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKBAAAAAICAGlkAQACAwBsdmwFAAACAgBpZAAAAgMAbHZsBQAAAgIAaWQRAAIDAGx2bAUAAAICAGlkpAECAwBsdmwCAAAA
+      format: nbt
+  price: 0
+  cooldown: 86400
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: youtube
+§4§lMiniYT:
+  items:
+    4:
+      id: 276
+      nbt_b64: CgAACQQAZW5jaAoEAAAAAgIAaWQRAAIDAGx2bAQAAAICAGlkCQACAwBsdmwEAAACAgBpZHMAAgMAbHZsAgAAAgIAaWRlAAIDAGx2bAEAAAMSAFBpZ2d5Q0VJdGVtVmVyc2lvbgAAAAAA
+      format: nbt
+    5:
+      id: 279
+      nbt_b64: CgAACQQAZW5jaAoDAAAAAgIAaWQRAAIDAGx2bAQAAAICAGlkCQACAwBsdmwEAAACAgBpZA8AAgMAbHZsBQAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAA=
+      format: nbt
+    6:
+      id: 278
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAQAAAICAGlkDwACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    7:
+      id: 277
+      nbt_b64: CgAACQQAZW5jaAoCAAAAAgIAaWQRAAIDAGx2bAQAAAICAGlkDwACAwBsdmwFAAADEgBQaWdneUNFSXRlbVZlcnNpb24AAAAAAA==
+      format: nbt
+    8:
+      id: 399
+      nbt_b64: CgAACgcAZGlzcGxheQgEAE5hbWUkAMKncsKnYVNreWJsb2NrIE1lbnUgwqc3KFJpZ2h0LUNsaWNrKQAA
+      format: nbt
+    24:
+      id: 262
+      count: 64
+    32:
+      id: 373
+      damage: 15
+    33:
+      id: 373
+      damage: 10
+    35:
+      id: 466
+      count: 22
+  armor:
+    3:
+      id: 313
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAwAAAAICAGlkAQACAwBsdmwEAAACAgBpZBEAAgMAbHZsBQAAAgIAaWSkAQIDAGx2bAMAAAA=
+      format: nbt
+    2:
+      id: 312
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAwAAAAICAGlkAQACAwBsdmwEAAACAgBpZBEAAgMAbHZsBQAAAgIAaWSkAQIDAGx2bAMAAAA=
+      format: nbt
+    1:
+      id: 311
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAwAAAAICAGlkAQACAwBsdmwEAAACAgBpZBEAAgMAbHZsBQAAAgIAaWSkAQIDAGx2bAMAAAA=
+      format: nbt
+    0:
+      id: 310
+      nbt_b64: CgAAAxIAUGlnZ3lDRUl0ZW1WZXJzaW9uAAAAAAkEAGVuY2gKAwAAAAICAGlkAQACAwBsdmwEAAACAgBpZBEAAgMAbHZsBQAAAgIAaWSkAQIDAGx2bAMAAAA=
+      format: nbt
+  price: 0
+  cooldown: 86400
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: easykits.kit.MiniYT
+§b§lCROWN:
+  items:
+  - id: 298
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IDAEVuZAMLAGN1c3RvbUNvbG9yAAAA/woHAGRpc3BsYXkJBABMb3JlCAMAAAAiAMKncsKnbMKnYUVuZCBIZWxtZXQgSXMgUmFyZSBIZWxtZXQEAMKnciDhAMKncsKnbMKnNkZVTEwgU0VUIEJPTlVTOiAKwqdswqdlKzI1JSBSZXNpc3RhbmNlIFRvIEtub2NrYmFjawrCp2zCp2UrNDAlIERhbWFnZSBOZWdhdGlvbiBGcm9tIEFsbCBDYXVzZXMKwqdswqdlKzIwJSBEYW1hZ2UgTmVnYXRpb24gQWdhaW5zdCBTd29yZHMKwqdswqdlKzUwJSBEYW1hZ2UgTmVnYXRpb24gQWdhaW5zdCBBeGVzCsKnbMKnZSsxMCUgRGFtYWdlIE5lZ2F0aW9uIEFnYWluc3QgQm93cwgEAE5hbWUTAMKncsKnbMKnM0VuZCBIZWxtZXQACQQAZW5jaAAAAAAAAA==
+    format: nbt
+  - id: 299
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IDAEVuZAMLAGN1c3RvbUNvbG9yAAAA/woHAGRpc3BsYXkJBABMb3JlCAMAAAAqAMKncsKnbMKnYUVuZCBDaGVzdHBsYXRlIElzIFJhcmUgQ2hlc3RwbGF0ZQQAwqdyIOEAwqdywqdswqc2RlVMTCBTRVQgQk9OVVM6IArCp2zCp2UrMjUlIFJlc2lzdGFuY2UgVG8gS25vY2tiYWNrCsKnbMKnZSs0MCUgRGFtYWdlIE5lZ2F0aW9uIEZyb20gQWxsIENhdXNlcwrCp2zCp2UrMjAlIERhbWFnZSBOZWdhdGlvbiBBZ2FpbnN0IFN3b3JkcwrCp2zCp2UrNTAlIERhbWFnZSBOZWdhdGlvbiBBZ2FpbnN0IEF4ZXMKwqdswqdlKzEwJSBEYW1hZ2UgTmVnYXRpb24gQWdhaW5zdCBCb3dzCAQATmFtZRcAwqdywqdswqczRW5kIENoZXN0cGxhdGUACQQAZW5jaAAAAAAAAA==
+    format: nbt
+  - id: 300
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IDAEVuZAMLAGN1c3RvbUNvbG9yAAAA/woHAGRpc3BsYXkJBABMb3JlCAMAAAAmAMKncsKnbMKnYUVuZCBMZWdnaW5ncyBJcyBSYXJlIExlZ2dpbmdzBADCp3Ig4QDCp3LCp2zCpzZGVUxMIFNFVCBCT05VUzogCsKnbMKnZSsyNSUgUmVzaXN0YW5jZSBUbyBLbm9ja2JhY2sKwqdswqdlKzQwJSBEYW1hZ2UgTmVnYXRpb24gRnJvbSBBbGwgQ2F1c2VzCsKnbMKnZSsyMCUgRGFtYWdlIE5lZ2F0aW9uIEFnYWluc3QgU3dvcmRzCsKnbMKnZSs1MCUgRGFtYWdlIE5lZ2F0aW9uIEFnYWluc3QgQXhlcwrCp2zCp2UrMTAlIERhbWFnZSBOZWdhdGlvbiBBZ2FpbnN0IEJvd3MIBABOYW1lFQDCp3LCp2zCpzNFbmQgTGVnZ2luZ3MACQQAZW5jaAAAAAAAAA==
+    format: nbt
+  - id: 301
+    nbt_b64: CgAACBEAYnVyZ2VyY3VzdG9tYXJtb3IDAEVuZAMLAGN1c3RvbUNvbG9yAAAA/woHAGRpc3BsYXkJBABMb3JlCAMAAAAgAMKncsKnbMKnYUVuZCBCb290cyBJcyBSYXJlIEJvb3RzBADCp3Ig4QDCp3LCp2zCpzZGVUxMIFNFVCBCT05VUzogCsKnbMKnZSsyNSUgUmVzaXN0YW5jZSBUbyBLbm9ja2JhY2sKwqdswqdlKzQwJSBEYW1hZ2UgTmVnYXRpb24gRnJvbSBBbGwgQ2F1c2VzCsKnbMKnZSsyMCUgRGFtYWdlIE5lZ2F0aW9uIEFnYWluc3QgU3dvcmRzCsKnbMKnZSs1MCUgRGFtYWdlIE5lZ2F0aW9uIEFnYWluc3QgQXhlcwrCp2zCp2UrMTAlIERhbWFnZSBOZWdhdGlvbiBBZ2FpbnN0IEJvd3MIBABOYW1lEgDCp3LCp2zCpzNFbmQgQm9vdHMACQQAZW5jaAAAAAAAAA==
+    format: nbt
+  - id: 397
+    damage: 3
+    count: 5
+    nbt_b64: CgAAChEATWluaW9uSW5mb3JtYXRpb24KCgBNaW5pb25UeXBlAwoAQWN0aW9uVHlwZQAAAAADCABUYXJnZXRJZDgAAAADCgBUYXJnZXRNZXRhAAAAAAAACgcAZGlzcGxheQgEAE5hbWUUAERpYW1vbmQgT3JlIE1pbmlvbiBJAAA=
+    format: nbt
+  - id: 223
+    count: 5
+    nbt_b64: CgAACgcAZGlzcGxheQkEAExvcmUIAQAAAC8AUGxhY2UgaXQgZG93biwgYW5kIG9yZSBibG9ja3Mgd2lsbCBzcGF3biBvbiB0b3AIBABOYW1lGwDCpzPCp2xESUFNT05EwqdywqdmIFNwYXduZXIACAoAb3Jlc3Bhd25lcgQAdHJ1ZQA=
+    format: nbt
+  armor: []
+  price: 0
+  cooldown: 9223372036854775807
+  flags:
+    locked: true
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: false
+    chestKit: true
+  permission: Crown
+  effects:
+    1:
+      amplifier: 0
+      duration: 614
+...

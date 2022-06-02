@@ -1,0 +1,17 @@
+{
+  "wheat": "wheat_block",
+  "melon": "melon_block",
+  "coal": "coal_block",
+  "iron_ingot": "iron_block",
+  "gold_ingot": "gold_block",
+  "diamond": "diamond_block",
+  "dye:4": "lapis_block",
+  "emerald": "emerald_block",
+  "redstone": "redstone_block",
+  "quartz": "quartz_block",
+  "glowstone_dust": "glowstone",
+  "ice": "packed_ice",
+  "clay": "clay_block",
+  "slimeball": "slime_block",
+  "snowball": "snow_block"
+}

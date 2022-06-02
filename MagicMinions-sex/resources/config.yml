@@ -1,0 +1,33 @@
+---
+# Do not change this (Only for internal use)!
+config-version: 1
+
+# Minion's tool tier. You can only choose one from this list: wooden, stone, iron, gold, diamond, netherite (Make sure you have the Netherite plugin installed)
+tool:
+  tier: "diamond"
+
+# This price is used to level up the minions
+levelup-costs:
+  - 0 # Level 1 (Unlock for first time)
+  - 2000
+  - 4000
+  - 8000
+  - 10000
+  - 12500
+  - 15000
+  - 17500
+  - 20000
+  - 25000
+  - 30000
+  - 35000
+  - 40000
+  - 50000
+  - 100000
+  
+# This is used if you want Minions not to be placed in certain world names
+# Empty it if you want the minions to be placed all over the world
+# example:
+# worlds:
+#   - "exampleworld"
+worlds: ["MagicGames", "Mining", "Arena"]
+...
